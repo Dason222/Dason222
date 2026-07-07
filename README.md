@@ -6,6 +6,7 @@ AI engineer with a software-engineering core, based in Vilnius, Lithuania. I com
 
 | Project | What it is | Stack |
 |---|---|---|
+| [theaode-case-study](https://github.com/Dason222/theaode-case-study) | **AODE** ([theaode.com](https://theaode.com)) — commercial self-hosted deployment platform (Vercel/Netlify alternative): git push-to-deploy, auto-SSL, rollbacks, module marketplace. Built and operated solo, in production. [Live demo](https://demo.theaode.com) | Next.js, TypeScript, Docker, Traefik |
 | [polymarket-trader](https://github.com/Dason222/polymarket-trader) | Fleet of 14 trading bots for Polymarket prediction markets — BTC 5-min binaries, whale-copy, sports momentum — under one Docker supervisor | Python, Docker, web3 |
 | [trading-dashboard](https://github.com/Dason222/trading-dashboard) | Self-hosted dashboard aggregating live P&L across the whole bot fleet, with on-chain wallet-truth balance reads | FastAPI, PostgreSQL, Alpine.js |
 | [openclaw-trader](https://github.com/Dason222/openclaw-trader) | Self-evolving LLM-driven trading agent: reasons over markets, evolves its own strategies, reports via Telegram | Python, LLM agents |
