@@ -1,6 +1,6 @@
 # Hi, I'm Armandas 👋
 
-AI engineer with a software-engineering core, based in Vilnius, Lithuania. I combine LLM systems with solid backend engineering to build **autonomous trading agents, AI infrastructure, and workflow automation** — designed, deployed, and operated end-to-end on my own infrastructure.
+AI engineer and full-stack developer based in Vilnius, Lithuania. I build complete products end-to-end — frontend, backend, infrastructure, and the LLM systems on top — from a **commercial deployment platform** to **autonomous trading agents and workflow automation**. Everything designed, shipped, and operated in production on infrastructure I run myself.
 
 ## 🔨 What I'm working on
 
@@ -16,7 +16,7 @@ AI engineer with a software-engineering core, based in Vilnius, Lithuania. I com
 
 ## 🧰 Tools I work with
 
-`Python` `FastAPI` `PostgreSQL` `Docker` `Go` `TypeScript` `n8n` `Traefik` `LLM agents` `web3.py` `Linux ops`
+`TypeScript` `Next.js` `React` `Tailwind` `Python` `FastAPI` `PostgreSQL` `Prisma` `Docker` `Go` `n8n` `Traefik` `LLM agents` `web3.py` `Linux ops`
 
 ---
 *Everything above runs 24/7 on a VPS I administer myself — reverse proxy, TLS, monitoring, databases, and CI included.*
